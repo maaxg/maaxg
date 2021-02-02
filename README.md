@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :musical_note: I like to hear
+# :musical_note: What i like to hear
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=maxsuel3245)
