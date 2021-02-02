@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+:musical_note:
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=maaxg)
