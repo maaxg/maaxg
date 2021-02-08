@@ -1,6 +1,6 @@
 ## Hey there :smile:
 
-- 🔭  I'm a Computer Science student in Brazil that loves learn and solve problems(sometimes, most of the times i just give up and search it on stack overflow) with code.
+- 🔭  I'm a Computer Science student in Brazil that loves learn and solve problems(stack overflow) with code.
 
 ## 🌱 Working on..
 
