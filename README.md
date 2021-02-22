@@ -9,6 +9,7 @@
 ## 💬 Last projects that i have developed
 - :black_joker:  https://github.com/maaxg/rn-card-flipper
 - :cook: https://github.com/maaxg/Drive-and-Eat
+- :red_square:  https://github.com/maaxg/rn-glitch-effect
 
 ## :teacher: Learning...
 
