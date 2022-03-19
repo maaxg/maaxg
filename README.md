@@ -24,6 +24,3 @@
 - maxsuelgomes11@gmail.com
 - maxgps5@hotmail.com
 
-
-## :musical_note: What i like to hear
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=maxsuel3245)
