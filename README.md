@@ -11,7 +11,7 @@
 - :cook: https://github.com/maaxg/Drive-and-Eat
 - :red_square:  https://github.com/maaxg/rn-glitch-effect
 
-## 📱 You can check some apps that i've help/developed:
+## 📱 You can check some apps that i've worked in:
 - [Gym Daily](https://play.google.com/store/apps/details?id=com.godev.gymdaily&hl=en_US&gl=US)
 
 ## :teacher: Learning...
