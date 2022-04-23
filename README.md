@@ -11,6 +11,9 @@
 - :cook: https://github.com/maaxg/Drive-and-Eat
 - :red_square:  https://github.com/maaxg/rn-glitch-effect
 
+## 📱 You can check some apps that i've help/developed:
+- [Gym Daily](https://play.google.com/store/apps/details?id=com.godev.gymdaily&hl=en_US&gl=US)
+
 ## :teacher: Learning...
 
 - I'm currently learning Kotlin and React native. I want to to become a Mobile specialist in the future.
