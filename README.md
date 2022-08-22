@@ -21,7 +21,6 @@
 ## 📫 How to reach me
 
 [<img src="https://user-images.githubusercontent.com/49838612/106606041-6878ed80-6540-11eb-9d56-da46ed46cd13.png" width="25"/>](https://www.linkedin.com/in/maxsuel-gomes-79a2a1181/)   
-[<img src="https://user-images.githubusercontent.com/49838612/106606503-f81e9c00-6540-11eb-9411-238c99cf8fb2.png" width="25"/>](https://www.instagram.com/maaxg._/)
 
 ### :email: Email
 - maxsuelgomes11@gmail.com
