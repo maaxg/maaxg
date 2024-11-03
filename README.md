@@ -16,7 +16,7 @@
 
 ## :teacher: Learning...
 
-- I'm currently learning Kotlin and React native. I want to to become a Mobile specialist in the future.
+- I'm currently learning Kotlin and Swift. I want to to become a Mobile specialist in the future.
 
 ## 📫 How to reach me
 
