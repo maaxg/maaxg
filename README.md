@@ -1,6 +1,6 @@
 ## Hey there :smile:
 
-- 🔭  I'm a Computer Science student in Brazil that loves learn and solve problems with code.
+- 🔭  I'm a Software Engineer based in Brazil
 
 ## 🌱 Working on..
 
